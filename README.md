@@ -5,6 +5,6 @@ ABAP Objects Mass Load
 Not very well tested.
 
 # Supported Objects
-DOMA - Domains 
-DTEL - Data elements
-TABL - Tables and Structures
+- DOMA: Domains 
+- DTEL: Data elements
+- TABL: Tables and Structures
