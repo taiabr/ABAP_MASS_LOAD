@@ -1,0 +1,13 @@
+ROLLNAME/C-60	DDTEXT/C-120	SCRTEXT_S/C-20	SCRTEXT_M/C-40	SCRTEXT_L/C-80	DOMNAME/C-60	DATATYPE/C-8	LENG/N-12	DECIMALS/N-12	OUTPUTLEN/N-12
+ZE_TPTST_CHAR	char	char	char	char	ZD_TPTST_CHAR				
+ZE_TPTST_CURR	moeda	moeda	moeda	moeda	ZD_TPTST_CURR				
+ZE_TPTST_CUKY	cod.moeda	cod.moeda	cod.moeda	cod.moeda	ZD_TPTST_CUKY				
+ZE_TPTST_QUAN	quantidade	quantidade	quantidade	quantidade	ZD_TPTST_QUAN				
+ZE_TPTST_UNIT	un.quantidade	un.quantidade	un.quantidade	un.quantidade	ZD_TPTST_UNIT				
+ZE_TPTST_DATS	data	data	data	data	ZD_TPTST_DATS				
+ZE_TPTST_TIMS	hora	hora	hora	hora	ZD_TPTST_TIMS				
+ZE_TPTST_DEC	decimal	decimal	decimal	decimal	ZD_TPTST_DEC				
+ZE_TPTST_INT1	inteiro	inteiro	inteiro	inteiro	ZD_TPTST_INT1				
+ZE_TPTST_NUMC	natural	natural	natural	natural	ZD_TPTST_NUMC				
+ZE_TPTST_DIRECT	direto char	direto char	direto char	direto char		CHAR	10		10
+ZE_TPTST_TEXT20	text20	text20	text20	text20	TEXT20				
