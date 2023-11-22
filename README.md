@@ -1,8 +1,5 @@
-# ABAP_MASS_LOAD
-ABAP Objects Mass Load - POC
-
-# IMPORTANT
-Not very well tested.
+# [POC] ABAP_MASS_LOAD
+ABAP Objects Mass Load
 
 # Supported Objects
 - DOMA: Domains 
