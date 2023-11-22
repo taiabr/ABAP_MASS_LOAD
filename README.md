@@ -1,5 +1,5 @@
 # ABAP_MASS_LOAD
-ABAP Objects Mass Load
+ABAP Objects Mass Load - POC
 
 # IMPORTANT
 Not very well tested.
